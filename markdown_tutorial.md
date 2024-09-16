@@ -40,8 +40,19 @@ Ordered
 	* Item 3a
 	* Item 3b
 
-##IMAGES
+## IMAGES
 
 ![Brewer Lab Logo](https://1000logos.net/chloe-logo/)
 Format: \![Alt text](url)
+
+
+## LINKS
+
+http://brewerlab.net
+
+[Brewer Lab](http://brewerlab.net)
+
+## BACKSLASH ESCAPES
+
+\*Literal asterisks\*
 
