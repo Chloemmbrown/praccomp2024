@@ -6,3 +6,15 @@
 
 ###### This is a h6 tag
 
+## EMPHASIS
+
+_This text is italicized_
+
+*This text is also italicized*
+
+**This text is bolded**
+
+__This text is also bolded__
+
+You **can** combine them_
+
