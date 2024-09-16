@@ -18,6 +18,8 @@ __This text is also bolded__
 
 _You **can** combine them_
 
+~This text is striken~
+
 ## BLOCKQUOTES
 
 _My poem_ by Micheal Brewer 
@@ -79,7 +81,7 @@ x <- 4^2
 
 - [ ] This is an incomplete task
 - [x] This is a complete task
-- [x] @mentions, #refs, **formatting**, and <del>tags</del> supported
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 
 ## TABLES
@@ -92,4 +94,5 @@ Content column 1  | Content column 2
 ## EMOJI
 
 :spider:
+
 
