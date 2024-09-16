@@ -42,6 +42,6 @@ Ordered
 
 ##IMAGES
 
-![Brewer Lab Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FCHLOE-NEW-women-edp-2-5oz%2Fdp%2FB002CTAIJK&psig=AOvVaw1HxONfmIgpa8CyWx-2yEgV&ust=1726608834112000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCd5qW1yIgDFQAAAAAdAAAAABAE)
+![Brewer Lab Logo](https://1000logos.net/chloe-logo/)
 Format: \![Alt text](url)
 
